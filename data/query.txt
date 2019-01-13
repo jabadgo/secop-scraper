@@ -1,0 +1,5 @@
+#Bienvenido.
+#Para garantizar el correcto funcionamiento de este archivo, escriba solo una palabra por linea.
+#Evite dejar lineas en blanco
+consultoria
+asesoria
